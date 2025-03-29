@@ -27,6 +27,10 @@ app.use((req, res, next) => {
     // console.log(req);
     next();
 });
+app.get("/", (req, res) => {
+    res.send("✅ Backend is running on Render!");
+});
+
 
 app.use("/api", routes);
 
