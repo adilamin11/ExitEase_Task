@@ -1,0 +1,2 @@
+ExitEase is a MERN stack (MongoDB, Express, React, Node.js) web application for managing employee resignations and exit interviews. It includes authentication, resignation submission with holiday validation (Calendarific API), approval workflow, exit interview access and review, and email notifications (Nodemailer). The system ensures a smooth exit process for employees and HR. 🚀
+https://adilrather.netlify.app/
